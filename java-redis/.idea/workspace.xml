@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c9581df-0594-415c-98e4-9d1b30dd7b35" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/cn/design/proxy/dympro/AccountDymProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loan/src/cn/loan/AverageCapitalPlusInterestUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loan/src/cn/loan/EqualPrincipalInterestUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loan/src/com/gs/loan/ACMLoanCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loan/src/com/gs/loan/ACPIMLoanCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loan/src/com/gs/loan/ILoanCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loan/src/com/gs/loan/Loan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loan/src/com/gs/loan/LoanByMonth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loan/src/com/gs/loan/LoanCalculatorAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loan/src/com/gs/loan/LoanCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loan/src/com/gs/loan/LoanUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spingMvc_sgg/src/main/java/cn/springmvc/HelloSpringMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spingMvc_sgg/src/main/java/cn/springmvc/convert/EmployeeConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spingMvc_sgg/src/main/java/cn/springmvc/crud/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spingMvc_sgg/src/main/java/cn/springmvc/crud/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spingMvc_sgg/src/main/java/cn/springmvc/crud/EmployeeHander.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spingMvc_sgg/src/main/java/cn/springmvc/crud/dao/DepartmentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spingMvc_sgg/src/main/java/cn/springmvc/crud/dao/EmployeeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spingMvc_sgg/src/main/java/cn/springmvc/test/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spingMvc_sgg/src/main/java/cn/springmvc/test/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spingMvc_sgg/src/main/resources/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spingMvc_sgg/src/main/webapp/WEB-INF/pages/input.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spingMvc_sgg/src/main/webapp/WEB-INF/pages/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spingMvc_sgg/src/main/webapp/WEB-INF/pages/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spingMvc_sgg/src/main/webapp/scripts/jquery-1.9.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spingMvc_sgg/src/main/webapp/user.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/src/main/java/cn/hm/day01/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/src/main/java/cn/hm/day01/controller/HelloSpringMVCController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/src/main/java/cn/hm/day02/Day2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/src/main/java/cn/hm/day02/anno/AnnoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/src/main/java/cn/hm/day02/controller/PaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/src/main/java/cn/hm/day02/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/src/main/java/cn/hm/day02/converter/SToDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/src/main/java/cn/hm/day02/converter/StringToDateConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/src/main/java/cn/hm/day02/converter/StringToUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/src/main/java/cn/hm/day02/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/src/main/java/cn/hm/day02/enums/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/src/main/java/cn/hm/day04/Day4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/src/main/java/cn/hm/day04/controller/ExceptionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/src/main/java/cn/hm/day04/controller/FileControler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/src/main/java/cn/hm/day04/controller/InterceptorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/src/main/java/cn/hm/day04/controller/JsonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/src/main/java/cn/hm/day04/controller/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/src/main/java/cn/hm/day04/except/SysException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/src/main/java/cn/hm/day04/except/SysExceptionResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/src/main/java/cn/hm/day04/interceptor/MyInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/src/main/resources/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/src/main/webapp/WEB-INF/pages/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/src/main/webapp/WEB-INF/pages/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/src/main/webapp/anno.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/src/main/webapp/download.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/src/main/webapp/excepiton.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/src/main/webapp/interceptor.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/src/main/webapp/js/jquery-1.9.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/src/main/webapp/json.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/src/main/webapp/param.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/src/main/webapp/submit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/src/main/webapp/upload.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvc_hm57/src/test/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_sgg/src/main/java/cn.sgg/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_sgg/src/main/java/cn.sgg/annotation/Transaction_aop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_sgg/src/main/java/cn.sgg/annotation/bean/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_sgg/src/main/java/cn.sgg/annotation/config/MainConfi_Value_Anno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_sgg/src/main/java/cn.sgg/annotation/config/MainConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_sgg/src/main/java/cn.sgg/annotation/config/MainConfigAop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_sgg/src/main/java/cn.sgg/annotation/config/MainConfigAutowired.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_sgg/src/main/java/cn.sgg/annotation/config/MainConfigProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_sgg/src/main/java/cn.sgg/annotation/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_sgg/src/main/java/cn.sgg/annotation/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_sgg/src/main/java/cn.sgg/annotation/extend/Ex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_sgg/src/main/java/cn.sgg/annotation/extend/ExtConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_sgg/src/main/java/cn.sgg/annotation/extend/MyBeanFactoryPostProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_sgg/src/main/java/cn.sgg/annotation/extend/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_sgg/src/main/java/cn.sgg/annotation/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_sgg/src/main/java/cn.sgg/annotation/tx/MainConfigTx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_sgg/src/main/java/cn.sgg/annotation/tx/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_sgg/src/main/java/cn.sgg/annotation/tx/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_sgg/src/main/resources/a.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_sgg/src/main/resources/dao.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_sgg/src/test/java/cn/sgg/annotation/config/MainConfi_Value_AnnoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_sgg/src/test/java/cn/sgg/annotation/config/MainConfigAopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_sgg/src/test/java/cn/sgg/annotation/config/MainConfigAutowiredTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_sgg/src/test/java/cn/sgg/annotation/config/MainConfigTxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_sgg/src/test/java/cn/sgg/annotation/extend/ExtConfigTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-sgg/src/main/java/cn/boot/component/LoginHandlerInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-sgg/src/main/java/cn/boot/config/DruidConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-sgg/src/main/java/cn/boot/controller/DepartmentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-sgg/src/main/java/cn/boot/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-sgg/src/main/java/cn/boot/dao/DepartmentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-sgg/src/main/java/cn/boot/dao/EmployeeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-sgg/src/main/java/cn/boot/entities/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-sgg/src/main/java/cn/boot/entities/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-sgg/src/main/java/cn/boot/entities/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-sgg/src/main/java/cn/boot/exception/BootException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-sgg/src/main/java/cn/boot/exception/DivisorException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-sgg/src/main/java/cn/boot/mapper/DepartmentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-sgg/src/main/java/cn/boot/repository/UserReposity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-sgg/src/main/resources/sql/department.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-sgg/src/main/resources/static/asserts/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-sgg/src/main/resources/static/asserts/css/dashboard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-sgg/src/main/resources/static/asserts/css/signin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-sgg/src/main/resources/static/asserts/img/bootstrap-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-sgg/src/main/resources/static/asserts/js/Chart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-sgg/src/main/resources/static/asserts/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-sgg/src/main/resources/static/asserts/js/feather.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-sgg/src/main/resources/static/asserts/js/jquery-3.2.1.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-sgg/src/main/resources/static/asserts/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-sgg/src/main/resources/templates/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-sgg/src/main/resources/templates/emp/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-sgg/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-sgg/src/main/resources/templates/success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/java/cn/wxsell/component/SellErrorAttributes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/java/cn/wxsell/config/MyMvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/java/cn/wxsell/controller/AdminInfoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/java/cn/wxsell/controller/CategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/java/cn/wxsell/controller/FileController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/java/cn/wxsell/controller/PictureController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/java/cn/wxsell/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/java/cn/wxsell/controller/WxOrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/java/cn/wxsell/controller/WxPictureController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/java/cn/wxsell/entity/AdminInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/java/cn/wxsell/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/java/cn/wxsell/exception/WxSellException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/java/cn/wxsell/hander/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/java/cn/wxsell/interceptor/LoginHandlerInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/java/cn/wxsell/model/DefaultEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/java/cn/wxsell/model/OrderStatusEnumConvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/java/cn/wxsell/model/StatusEnumConvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/java/cn/wxsell/repository/AdminInfoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/java/cn/wxsell/repository/CategoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/java/cn/wxsell/service/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/java/cn/wxsell/service/impl/CategoryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/java/cn/wxsell/service/impl/FoodServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/java/cn/wxsell/service/impl/PictureServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/java/cn/wxsell/service/impl/WxOrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/java/cn/wxsell/utils/FileUtlis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/resources/static/food/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/resources/static/food/b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/resources/static/food/c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/resources/static/food/d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/resources/static/mp3/cuidan.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/resources/static/mp3/laidanle.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/resources/templates/error/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/resources/templates/error/4xx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/resources/templates/error/5xx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/resources/templates/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wx-sell/src/main/resources/templates/success.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design_patterns/src/main/java/cn/design/proxy/dympro/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/cn/design/proxy/dympro/AccountServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design_patterns/src/main/java/cn/design/proxy/dympro/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/cn/design/proxy/dympro/AccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design_patterns/src/main/java/cn/design/proxy/dympro/DymProxyTes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/cn/design/proxy/dympro/DymProxyTes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design_patterns/src/main/java/cn/design/proxy/dympro/MonitorUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/cn/design/proxy/dympro/MonitorUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design_patterns/src/main/java/cn/design/proxy/dympro/StuInvocationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/cn/design/proxy/dympro/StuInvocationHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design_patterns/src/main/java/cn/design/proxy/dympro/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/cn/design/proxy/dympro/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design_patterns/src/main/java/cn/design/proxy/staticpro/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/cn/design/proxy/staticpro/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design_patterns/src/main/java/cn/design/proxy/staticpro/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/cn/design/proxy/staticpro/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design_patterns/src/main/java/cn/design/proxy/staticpro/StudentProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design_patterns/src/main/java/cn/design/proxy/staticpro/StudentProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wx-sell/src/main/resources/static/images/captcha.png" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1482206063">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="26" />
+          <entry key="xml" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="26" />
+          <entry key="XML" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/redis/RedisConnection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/redis/RedisConnection.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="G:\m2\repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="createModuleGroups" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java-redis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-redis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-redis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-redis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-redis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1605619760357" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c9581df-0594-415c-98e4-9d1b30dd7b35" name="Default Changelist" comment="" />
+      <created>1605619606489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605619606489</updated>
+      <workItem from="1605619609867" duration="315000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="315000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/redis/RedisConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
